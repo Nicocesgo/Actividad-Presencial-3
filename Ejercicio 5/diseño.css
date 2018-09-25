@@ -1,0 +1,24 @@
+.dadbox{
+  position: relative;
+  width: 40%;
+  height: 400px;
+  float: left;
+  left: 30%;
+  top: 100px;
+}
+
+.sonbox{
+  position: absolute;
+  top:40px;
+  left: 22px;
+  height: 285px;
+  padding: 10px
+}
+
+#lentes{
+  height: 400px;
+}
+
+#oferta{
+  height: 100%
+}
