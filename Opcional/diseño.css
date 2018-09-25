@@ -1,0 +1,39 @@
+body{
+  margin: auto 110px;
+  font-family: Verdana;
+  font-size: 13px
+}
+
+.titulo{
+  height: 60px;
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+
+.menu{
+  width: 33%;
+  height: 220px;
+  background-color: silver;
+  float: left;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+.subtitulo{
+  width: 67%;
+  height: 220px;
+  float: left;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+.pie{
+  clear: both;
+  height: 25px;
+  background-color: rgb(108 119 133);
+  color: white;
+  padding: 5px;
+  box-sizing: border-box;
+  text-align: center;
+}

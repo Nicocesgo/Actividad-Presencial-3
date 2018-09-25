@@ -1,0 +1,24 @@
+.dadbox{
+  position: relative;
+  width: 467px;
+  height: 400px;
+  float: left;
+  left: 30%;
+  top: 100px;
+}
+
+.sonbox{
+  position: absolute;
+  top: 230px;
+  right: 60px;
+  height: 285px;
+  padding: 10px
+}
+
+#bateria{
+  height: 400px;
+}
+
+#despacho{
+  height: 30%
+}
